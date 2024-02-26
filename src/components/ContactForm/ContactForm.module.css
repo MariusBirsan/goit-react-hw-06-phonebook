@@ -1,0 +1,27 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  border: 0;
+  border-radius: 25px;
+  transition: 0.5s;
+  height: 50px;
+  width: 50%;
+}
+
+button:hover {
+  background-color: orange;
+  box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+  transform: translateY(-0.25em);
+}
+
+input {
+  height: 50px;
+  width: 400px;
+  padding-left: 25px;
+}

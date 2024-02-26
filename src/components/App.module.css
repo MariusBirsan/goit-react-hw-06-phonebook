@@ -1,0 +1,14 @@
+.title {
+  font-size: 70px;
+  width: 400px;
+  height: 100px;
+  text-align: center;
+  color: bisque;
+}
+
+.subtitle {
+  font-size: 40px;
+  width: 400px;
+  height: 25px;
+  color: bisque;
+}
